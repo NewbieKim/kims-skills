@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Chat SDK Happy Day"
+  short_description: "一对一对话 SDK 从0到1辅导，Vue3 渲染 SDK 落地 business-template"
+  brand_color: "#7C3AED"
+  default_prompt: "Use $chat_sdk_happy_day to continue my AI chat SDK mentoring: teach the current plan node, build the presentational Vue3 SDK in packages/ai-chat-sdk grounded in business-template, explain concepts in plain Chinese with Mermaid diagrams, and write the day summary HTML doc to agent-docs/ai-chat-sdk/."
+policy:
+  allow_implicit_invocation: true

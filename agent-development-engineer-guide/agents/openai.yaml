@@ -1,0 +1,8 @@
+interface:
+  display_name: "AI Agent 开发工程师强化教练"
+  short_description: "真实生产项目驱动的 Agent 强化、面试与求职辅导"
+  brand_color: "#0F766E"
+  default_prompt: "Use $agent-development-engineer-guide to assess my current Agent engineering level and start the next evidence-based learning session."
+policy:
+  allow_implicit_invocation: true
+

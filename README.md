@@ -12,6 +12,7 @@
 | `frontend-design` | 设计前端技术方案和页面实现方案 | 新增页面、重构模块、接入复杂接口、设计组件拆分或输出前端设计文档时 |
 | `optimization-analysis-and-design` | 分析性能、体验、稳定性和可维护性问题并设计优化方案 | 页面慢、列表卡顿、重复请求、导出慢、包体积大或需要重构复杂组件时 |
 | `requirement-analysis-and-decomposition` | 分析前端需求并拆解开发任务 | 提供 PRD、原型、Story、接口文档、截图或口头需求，需要梳理场景、接口、权限和验收标准时 |
+| `agent-development-engineer-guide` | AI Agent 开发工程师强化、真实项目实战与面试求职辅导 | 巩固 Agent/RAG/MCP、开展一月强化、模拟面试、维护代码地图和学习知识库时 |
 
 ## 安装
 

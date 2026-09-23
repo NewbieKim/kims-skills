@@ -1,0 +1,7 @@
+interface:
+  display_name: "Agent Happy Day"
+  short_description: "一对一 Agent 开发辅导，Python 课程映射到 TS 项目实践"
+  brand_color: "#2563EB"
+  default_prompt: "Use $agent_happy_day to continue my AI Agent learning tutoring: teach the current plan node, adapt Python examples to TypeScript grounded in kimsweb-front, and upgrade the project step by step."
+policy:
+  allow_implicit_invocation: true
